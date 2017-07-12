@@ -26,6 +26,9 @@ Administrative Division of Ukraine. Due to 'decommunization' processes in Ukrain
 > 1421284000;;ОКТЯБРСЬКА/  КРЕМЕНЧИК;ОКТЯБРСЬКА/  КЕРМЕНЧИК;ПВРУ N984-VIII ВІД 04.02.2016
  
  ## Злиття даних із [джерелом](https://github.com/justinelliotmeyers/official_ukraine_administrative_boundary_shapefile)
+
+### SETTLEMENTS
  
- Тип 1.
- 882 з 917 співпадінь КОАТУУ
+ Тип 1. 882 з 917 співпадінь КОАТУУ
+ 
+ Тип 3. 3 з 437 співпадінь КОАТУУ (Дніпропетровськ, Дніпродзержинськ, Кіровоград)
